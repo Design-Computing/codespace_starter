@@ -19,4 +19,5 @@ pyogrio
 geopandas
 notebook==6.1.5
 jupyter-server<2.0.0
+jupyterlab_rise
 rise
