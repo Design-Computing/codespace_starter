@@ -8,6 +8,5 @@ code --install-extension ms-mssql.mssql
 code --install-extension ms-python.python
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension redhat.vscode-yaml
-code --install-extension travisthetechie.write-good-linter
 code --install-extension Tyriar.sort-lines
 code --install-extension oderwat.indent-rainbow
