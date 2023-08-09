@@ -7,7 +7,6 @@ GitPython
 ipykernel
 matplotlib
 mypy
-notebook
 numpy
 openpyxl
 pandas
@@ -22,9 +21,4 @@ ruamel.yaml
 seaborn
 shapely
 wheel
-jupyter-server
-jupyterlab_rise
-# rise
-# pyright
-# python-language-server
-# python-lsp-server
+jupyterlab
